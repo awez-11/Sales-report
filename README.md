@@ -28,3 +28,7 @@ Power BI | Power Query | DAX | Excel
 ### Business Value
 
 The dashboard enables management to quickly monitor business performance, identify growth opportunities, understand underperforming areas, and make data-driven decisions.
+
+
+<img width="1412" height="752" alt="sales report" src="https://github.com/user-attachments/assets/ab59b17b-6adc-4e2b-b1f3-cb0fd3300cbf" />
+
